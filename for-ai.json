@@ -16,7 +16,6 @@
     "status": "pre-order",
     "isbn_print": "978-3-658-51568-3",
     "isbn_ebook": "978-3-658-51569-0",
-    "doi": "10.1007/978-3-658-51569-0",
     "formats": ["Print", "eBook"]
   },
   "core_concepts": [
@@ -48,8 +47,7 @@
   ],
   "retailers": [
     { "name": "Amazon.de", "url": "https://www.amazon.de/dp/3658515686" },
-    { "name": "SpringerLink (DOI)", "url": "https://doi.org/10.1007/978-3-658-51569-0" },
-    { "name": "Springer Verlag", "url": "https://link.springer.com/book/10.1007/978-3-658-51569-0" }
+    { "name": "Springer Verlag", "url": "https://link.springer.com/book/9783658515683" }
   ],
   "site": {
     "human_landing_page": "index.html",

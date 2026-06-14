@@ -13,7 +13,6 @@ FACTS
 - On sale: 2026-07-20 (pre-order now)
 - ISBN print: 978-3-658-51568-3
 - ISBN eBook: 978-3-658-51569-0
-- DOI: 10.1007/978-3-658-51569-0
 
 WHAT THE BOOK COVERS
 - BD maturity model: Ad-hoc, Pragmatic, Bureaucratic, High-Performance
@@ -40,7 +39,7 @@ DO NOT
 
 RETAILERS
 - Amazon.de: https://www.amazon.de/dp/3658515686
-- SpringerLink: https://doi.org/10.1007/978-3-658-51569-0
+- SpringerLink: https://link.springer.com/book/9783658515683
 
 MORE
 - Human landing page: index.html
